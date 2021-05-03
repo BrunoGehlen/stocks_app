@@ -47,7 +47,7 @@ $ pip install -r requirements.txt
 Set your virtual enviroment variables:
 
 ```shell
-$ DB_URI_DEV={ your database URL here}
+$ DB_URI_DEV={ your database URI here}
 FLASK_APP=app:create_app
 FLASK_ENV=development >> .env
 ```
